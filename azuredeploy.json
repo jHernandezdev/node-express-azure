@@ -18,7 +18,8 @@
         }
     },
     "variables": {},
-    "resources": [{
+    "resources": [
+        {
             "type": "Microsoft.Web/serverfarms",
             "sku": {
                 "name": "S1",
